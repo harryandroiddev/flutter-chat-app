@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'dart:io';
+import 'dart:io';fsdfsfsdfssdsdsfds
 
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -18,7 +18,7 @@ final auth = FirebaseAuth.instance;
 var currentUserEmail;
 var _scaffoldContext;
 
-class ChatScreen extends StatefulWidget {
+class ChatScreen extends StatefulWidget {fdfdfdfsfsfsfdfdsfsdfsdf
   @override
   ChatScreenState createState() {
     return new ChatScreenState();
